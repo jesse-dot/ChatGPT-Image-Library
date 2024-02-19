@@ -3,9 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Replace these URLs with your own image URLs
     const imageUrls = [
-        "image1.jpg",
-        "image2.jpg",
-        "image3.jpg",
+        "https://i.imgur.com/MtRi5V2.jpg",
         // Add more images as needed
     ];
 
